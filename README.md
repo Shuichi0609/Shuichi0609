@@ -1,25 +1,24 @@
-# 👋 Hello, I'm Dibyarup Aich
+# <p align="center">Hello, I'm Dibyarup Aich</p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+%7C+AI+Enthusiast+%7C+Student+%7C+Open+to+Research+%7C+Technical+Support&center=true&width=500&height=50">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+%7C+AI+Enthusiast+%7C+Student+%7C+Open+to+Research+%7C+Technical+Support&center=true&width=500&height=50" alt="Typing Animation">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;AI+Enthusiast;Student;Open+to+Research;Technical+Support&center=true&width=450&height=45&color=58a6ff&font=monospace" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-> B.Tech in Computer Science | Passionate about AI | Currently preparing for AI roles (Internship + Full-Time)
-
-- 🔭 Currently working on: **AI-powered Tuberculosis Detection System**
-- 🎓 Pursuing B.Tech in Computer Science
-- 💡 Open to AI/ML Projects, Research Collaborations, Internships & Job Opportunities
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/dibyarup-aich-22378a320/)
+<p align="center">
+  I'm a college student pursuing B.Tech in Computer Science, passionate about AI and machine learning.<br>
+  Currently building AI-powered systems and training CNN models for real-world applications.<br>
+  I also enjoy working with Arduino programming and creating embedded AI solutions.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -35,6 +34,8 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
 
 ---
 
@@ -55,14 +56,16 @@
 
 - Hands-on experience with advanced preprocessing pipelines
 - Building AI/ML solutions with TensorFlow and PyTorch
+- CNN training for computer vision applications
 - Full-stack development with React, Node.js, and NestJS
 - Mobile app development with React Native
+- Arduino programming and embedded systems
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dibyarup-aich-22378a320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -72,13 +75,10 @@
 
 ## 🌱 Let's Collaborate
 
-I'm open to:
-
-- 🤖 AI/ML Projects
-- 🔬 Research Collaborations  
-- 💼 Internships & Job Opportunities
-
-**Let's build impactful AI solutions together!**
+<p align="center">
+  I'm open to AI/ML Projects, Research Collaborations & Internships<br>
+  <strong>Let's build impactful AI solutions together!</strong>
+</p>
 
 ---
 
