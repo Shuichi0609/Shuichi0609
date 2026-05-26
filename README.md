@@ -56,7 +56,7 @@
 <div align="center">
 
 <!-- Reliable stats via statscards.com -->
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuichi0609&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuichi0609&theme=aura)
 </div>
 
 
